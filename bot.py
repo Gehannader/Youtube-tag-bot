@@ -38,7 +38,7 @@ BUTTON = InlineKeyboardMarkup(
                     InlineKeyboardButton("𝓢𝓛 𝓑𝓸𝓽 𝓒𝓱𝓪𝓽", url=f"https://t.me/slbotzone"),
                 ],
                 [
-                    InlineKeyboardButton(text="📦 Socure Code 📦", url=f"https://github.com/youtubeslgeekshow/youtubebot")],
+                    InlineKeyboardButton(text="📦 Socure Code 📦", url=f"https://github.com/youtubeslgeekshow/Youtube-tag-bot")],
             ]
         )
 
