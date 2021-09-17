@@ -12,12 +12,12 @@
 
 ##  deploy to Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/sz-rose-bot)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/Youtube-tag-bot)  
      
 
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=sz-rose-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Youtube-tag-bot&theme=dark)
 
 
 ### Credits 
