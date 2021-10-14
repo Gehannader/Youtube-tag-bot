@@ -12,7 +12,7 @@
 
 ##  deploy to Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/Youtube-tag-bot)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImDenuwan/Youtube-tag-bot)  
      
 
 
